@@ -188,6 +188,7 @@ public class EstadoDeResultados extends javax.swing.JFrame {
             
             mesf = Integer.parseInt(mesFinal);
             
+            
             switch(mesf) {
                 case 1: mesFinal = "Enero";
                     break;
